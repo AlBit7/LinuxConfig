@@ -22,7 +22,10 @@
 - andare su Tweeks e su Startup Application: selezionare la applicazione per il dock
 - andare su Exstentions: disattivare ubuntu Dock
 
-# Script
+# Script per velocizzare
 
-to run "chmod +x installa.sh"
+- su terminale: "chmod +x installa.sh"
+- installare l'estensione di FireFox
+- su terminale: "gnome-extensions enable user-theme@gnome-shell-extensions.gcampax.github.com"
+
 
