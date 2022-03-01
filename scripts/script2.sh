@@ -7,4 +7,5 @@ rm -r Orchis-theme
 
 gnome-extensions enable user-theme@gnome-shell-extensions.gcampax.github.com
 gnome-extensions disable ubuntu-dock@ubuntu.com 
+sudo apt install plank
 gnome-tweaks
