@@ -24,8 +24,11 @@
 
 # Script per velocizzare
 
-- su terminale: "chmod +x installa.sh"
+rendere gli script eseguibili: "chmod +x script.sh"
+
+- su terminale: "./script1.sh"
 - installare l'estensione di FireFox
 - su terminale: "gnome-extensions enable user-theme@gnome-shell-extensions.gcampax.github.com"
+- eseguire "./script2.sh"
 
 
