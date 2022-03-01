@@ -18,4 +18,6 @@
 - per le icone:
   - stessa cosa ma creare la cartella ".icons"
   - aprire Tweeks e andare su appearance: segliere le icone installate
-
+- sudo atp install cairo-dock oplank
+- andare su Tweeks e su Startup Application: selezionare la applicazione per il dock
+- andare su Exstentions: disattivare ubuntu Dock
